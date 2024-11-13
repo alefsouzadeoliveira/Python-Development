@@ -3,7 +3,7 @@
 # Data Wrangling
 # MBA em Data Science e Analytics USP/ESALQ
 
-# Prof. Dr. Wilson Tarantin Junior
+
 
 #%% Atividade nº 1
 
