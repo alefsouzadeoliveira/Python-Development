@@ -3,8 +3,6 @@
 # Data Wrangling
 # MBA em Data Science e Analytics USP/ESALQ
 
-
-
 #%% Atividade nº 1
 
 # Aplicar funções que são frequentemente utilizadas na manipulação de dados
